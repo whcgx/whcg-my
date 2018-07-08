@@ -13,8 +13,6 @@
   "files": [
     "dist"
   ],
-  "devDependencies": {
-    "@polymer/polymer": "*"
-  },
+  "devDependencies": {},
   "dependencies": {}
 }
